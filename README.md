@@ -78,7 +78,7 @@ Nozzle Discharge Coefficient: Aerodynamic discharge efficiency calculated by com
 Thrust Force: Net nozzle thrust force derived from exit momentum flux, calculated as 74.028 N.
 
 Verification Plot: Comparative chart overlaying the experimental, SST model, and SA model axial velocity distributions along the jet centerline.
-[ARN 2 nozzle analysis data.xlsx](https://github.com/user-attachments/files/31749095/ARN.2.nozzle.analysis.data.xlsx)
+[ARN 2 nozzle analysis data.xlsx](https://github.com/user-attachments/files/31749095/ARN.2.nozzle.analysis.data.xlsx).
 
 
 
