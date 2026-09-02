@@ -1,5 +1,8 @@
 # ARN-2-NOZZLE-COMPRESSIBLE-FLOW-ANALYSIS
 2D axisymmetric CFD simulation and aerodynamic validation of the NASA TMR ARN2 convergent nozzle using ANSYS Fluent (k-ω SST), evaluating potential core decay, discharge coefficient (Cd = 0.988), and net thrust.
+Benchmark Reference
+This study is based on the NASA Turbulence Modeling Resource (TMR) benchmark case for the Subsonic Jet from an Acoustic Reference Nozzle:
+Case URL: https://tmbwg.github.io/turbmodels/jetsubsonic_val.html
 
 Project Summary
 Geometry: NASA ARN2 Convergent Nozzle (Exit Diameter: 2.0 inches / 0.0508 m)
